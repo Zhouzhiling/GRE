@@ -1,6 +1,6 @@
 ## 前言
 
-考试时间：**2017**.9.16
+考试时间：**2017**.3.15
 
 分数：330 (Verbal Reasoning: 160, Quantitative Reasoning: 170, Analytical Writing: 4.0)
 
@@ -84,6 +84,7 @@
 
 
 机灵
+
 2017.12.28 初稿
 
 2018.06.30 补充
